@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Detail view content goes here"; ObjectID = "0XM-y9-sOw"; */
+"0XM-y9-sOw.text" = "Détail du contenu de la vue va ici";
+
+/* Class = "UITableViewController"; title = "Master"; ObjectID = "7bK-jq-Zjz"; */
+"7bK-jq-Zjz.title" = "Maîtriser";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Arm-wq-HPj"; */
+"Arm-wq-HPj.text" = "Titre";
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "JEX-9P-axG"; */
+"JEX-9P-axG.title" = "Détail";
+
+/* Class = "UINavigationController"; title = "Master"; ObjectID = "RMx-3f-FxP"; */
+"RMx-3f-FxP.title" = "Maîtriser";
+
+/* Class = "UINavigationItem"; title = "Master"; ObjectID = "Zdf-7t-Un8"; */
+"Zdf-7t-Un8.title" = "Maîtriser";
+
+/* Class = "UINavigationItem"; title = "Detail"; ObjectID = "mOI-FS-AaM"; */
+"mOI-FS-AaM.title" = "Détail";

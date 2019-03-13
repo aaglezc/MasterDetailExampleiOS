@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  MasterDetailExampleiOS
+
+  Created by Pritesh Patel on 2018-02-23.
+  Copyright © 2018 MoxDroid. All rights reserved.
+*/
+"BOOK_PURCHASE" = "Thanks for the Purchase!";
